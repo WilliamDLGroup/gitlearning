@@ -2,4 +2,4 @@
 first change in local repository
 
 first create dev branch
-master branch change and tee
+master branch change and good
